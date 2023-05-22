@@ -1,8 +1,8 @@
 ## Лучшая команда ТГУ и Школы 21
 
-[![N|Solid](https://downloader.disk.yandex.ru/preview/91c8c6b13ce9b11ea48e658eb59773a02ffd73f15ae38af34d700e73ff636340/646bd183/EDLJJHCD6N9SVZdhe4tvZwBYTll904fYEvxZnwjCLxWHSbhwktxQ44O0uUhUL_3-ObF5zoy2ShZCdU0hZ8y9Nw%3D%3D?uid=0&filename=gulnaz.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1020x937)](https://github.com/rectorkipa/TGU-School21.git)
-[![N|Solid](https://downloader.disk.yandex.ru/preview/8b74d80ef72fbc6d253d751c74a3ce78f8ab19d76fd4ba4737ec02ce746992a5/646bd120/OELJ15SCdSg4ZMFoLlCzjQBYTll904fYEvxZnwjCLxXfUsNqSP4VsRM93ckMfB0lRKgCe2H6Q1ZNJAsj2NE5Fw%3D%3D?uid=0&filename=marina.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x937)](https://github.com/rectorkipa/TGU-School21.git)
-[![N|Solid](https://downloader.disk.yandex.ru/preview/dcf6c6ecd6568cfa324bd4d47b4ed3e2277d29b24a2cbc78a932c5c554d0d137/646bd5bc/mxd9AuK-PF1E1g-VoCSJdwBYTll904fYEvxZnwjCLxUOWs8eTS8xgVJdh-wfd7LTLVj6whd7WL_V9xOJCOIYwQ%3D%3D?uid=0&filename=nikolay.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x937)](https://github.com/rectorkipa/TGU-School21.git)
+[![N|Solid](https://downloader.disk.yandex.ru/preview/0481a31f2feba97c980f42ce34c9f60d8725eb091c09119f3b868c9219ea522d/646be7ec/DZ-GNlzWIM0UDl8H716eewXeSIwJr1Dd8z9ZxbJHBMwXMznOjcpEbwe7ZzC6X61ysDyBomkWTOyjekUESpBXSA%3D%3D?uid=0&filename=gulnaz.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x937)](https://github.com/rectorkipa/TGU-School21.git)
+[![N|Solid](https://downloader.disk.yandex.ru/preview/ade37dadad390fa26fcf8d8c463e599703dfcfa47ededf20293787ea86c17260/646be817/DZ-GNlzWIM0UDl8H716eewXeSIwJr1Dd8z9ZxbJHBMyVi7XY8oJ02DHIZzn-6lZZqq0aPDu8DCD_S0-YvzpDTw%3D%3D?uid=0&filename=marina.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x937)](https://github.com/rectorkipa/TGU-School21.git)
+[![N|Solid](https://downloader.disk.yandex.ru/preview/58672410089070bf6f4419f2370ed5defcb7c541c8e1d7b6cfb67acf1e90900c/646be843/yOnWy4spuo9ot2wdEeg55AXeSIwJr1Dd8z9ZxbJHBMwrTfaYZ_AbXZOJmZ5IzNn-qigCpWjj7nu6l8X0gbNjJA%3D%3D?uid=0&filename=nikolay.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x937)](https://github.com/rectorkipa/TGU-School21.git)
 ##### _представляет проект..._
 
 # **HaveFun21**
@@ -12,7 +12,7 @@
 
 #### _Короткая и понятная инструкция:_
 
-1.	Заходим в Телеграм и вводим название бота HaveFun21bot.
+1. Заходим в Телеграм и вводим название бота HaveFun21bot.
 https://t.me/HaveFun21bot ✨
 
 2. Запускаем бота или вводим команду /start ✨
